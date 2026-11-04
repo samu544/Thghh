@@ -1,7 +1,7 @@
 [
   {
     "visible": true,
-    "isHot": false,
+    "isHot": true,
     "category": "Football",
     "eventName": "Premier League",
     "eventLogo": "https://example.com/premier-league.png",
@@ -29,9 +29,9 @@
         "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
         "tokenApi": "",
         "audio": "",
-        "hasHeader": false,
-        "hasVpnDetection": false,
-        "customUa": false
+        "hasHeader": true,
+        "hasVpnDetection": true,
+        "customUa": true
       },
       {
         "name": "sp link",
