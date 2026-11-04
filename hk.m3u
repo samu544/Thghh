@@ -1,0 +1,178 @@
+[
+  {
+    "visible": true,
+    "isHot": false,
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "https://example.com/premier-league.png",
+    "teamAName": "Arsenal",
+    "teamBName": "Chelsea",
+    "teamAFlag": "https://example.com/arsenal.png",
+    "teamBFlag": "https://example.com/chelsea.png",
+    "date": "04/11/2026",
+    "time": "20:00:00",
+    "end_date": "04/11/2026",
+    "end_time": "22:00:00",
+    "priority": -1,
+    "strokeColor": "#33ffffff",
+    "link_names": [
+      "TNT",
+      "sp link",
+      "embed link",
+      "embed link (skymain)"
+    ],
+    "links": [
+      {
+        "name": "TNT",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "scheme": 0,
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "tokenApi": "",
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      },
+      {
+        "name": "sp link",
+        "link": "ok",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"https://example.com/live/stream.m3u8\",\"api\":\"https://example.com/token\",\"type\":\"sp\"}",
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      },
+      {
+        "name": "embed link",
+        "link": "ok",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": {
+          "url": "",
+          "api": "https://ondemand.st/player/hls/?v=538&url=https%3A%2F%2Fmessi.damitv.st%2Flive-hls%2Fchannel%2Faew-all-in-2026%2Fppv-es%2Fplaylist.m3u8%3Ftk%3D9dDlnCuLNcUBDKJUuyOhyA%26e%3D1788156152&name=Live",
+          "type": "embed"
+        },
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      },
+      {
+        "name": "embed link (skymain)",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": {
+          "url": "",
+          "api": "https://epiembeds.online/embed/skymain",
+          "type": "embed"
+        },
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "isHot": false,
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+    "teamAName": "RB Leipzig",
+    "teamBName": "Manchester City",
+    "teamAFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+    "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+    "date": "04/11/2026",
+    "time": "20:00:00",
+    "end_date": "04/11/2026",
+    "end_time": "22:20:00",
+    "priority": -1,
+    "strokeColor": "#33ffffff",
+    "link_names": [
+      "TNT"
+    ],
+    "links": [
+      {
+        "name": "TNT",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "scheme": 0,
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "tokenApi": "",
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "isHot": false,
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+    "teamAName": "AEK Athens",
+    "teamBName": "Real Madrid",
+    "teamAFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+    "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+    "date": "04/11/2026",
+    "time": "17:45:00",
+    "end_date": "04/11/2026",
+    "end_time": "20:05:00",
+    "priority": -1,
+    "strokeColor": "#33ffffff",
+    "link_names": [
+      "TNT"
+    ],
+    "links": [
+      {
+        "name": "TNT",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "scheme": 0,
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "tokenApi": "",
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "isHot": false,
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
+    "teamAName": "FC Porto",
+    "teamBName": "SSC Napoli",
+    "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+    "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+    "date": "04/11/2026",
+    "time": "20:00:00",
+    "end_date": "04/11/2026",
+    "end_time": "22:20:00",
+    "priority": -1,
+    "strokeColor": "#33ffffff",
+    "link_names": [
+      "TNT"
+    ],
+    "links": [
+      {
+        "name": "TNT",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+        "scheme": 0,
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "tokenApi": "",
+        "audio": "",
+        "hasHeader": false,
+        "hasVpnDetection": false,
+        "customUa": false
+      }
+    ]
+  }
+]
